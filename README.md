@@ -1,1 +1,1 @@
-# Django-Interview-Questions
+# 200-Django-interview-questions
